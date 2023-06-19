@@ -9,7 +9,7 @@ please refer to the corrected version of the paper is in the following [book](ht
 [OpenPGP Attack](https://colab.research.google.com/drive/15jyOq61YHdKeKaqM9LE2_ldDNvUHFSmo?usp=sharing)
 
 ## Requirements
-The projects require Python 3.5 or later and the following libraries:
+The project requires Python 3.5 or later and the following libraries:
 
 - Sandra 
 - pycrypto
